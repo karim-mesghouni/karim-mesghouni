@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm  Abdelkrim Mesghouni</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Larave+@+Flutter;AI+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Larave+@+Flutterl;AI+Developer" alt="Typing SVG" />
 </p>
 
 <br>
